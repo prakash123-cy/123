@@ -5,7 +5,7 @@ section
       align-items: center;
       min-height: 100vh;
   width: 100%;
-  background: url('file:///C:/Users/DREAM/Desktop/New%20folder/wallpaperflare.com_wallpaper%20(3).jpg')no-repeat;
+  background: url('./wallpaperflare.com_wallpaper%20(3).jpg')no-repeat;
    background-position: center;
    background-size: cover;
 
